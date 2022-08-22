@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url("https://www.thelist.com/img/gallery/what-it-really-means-when-you-dream-about-rainbows/intro-1620849879.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
